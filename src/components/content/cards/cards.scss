@@ -1,0 +1,26 @@
+.card{
+    padding: 5px;
+    margin: 2vh;
+}
+.content-card{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2vh;
+    padding-left: auto;
+    padding-left: auto;
+    padding-bottom: 7vh;
+}
+img {
+    height: 30vh;
+}
+.img-drawer{
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+.txt-des{
+    font-weight: bold;
+}
+.content-txt-c{
+    text-align: center;
+}

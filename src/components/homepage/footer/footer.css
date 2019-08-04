@@ -1,0 +1,18 @@
+
+  body {
+    font-family: sans-serif;
+  }
+  .footer{
+    text-align: center;
+    background: #8A2387;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+  }
+  .footer p {
+    color: white;
+    padding-top: 2vh;
+  }
+  

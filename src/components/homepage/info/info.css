@@ -1,0 +1,13 @@
+.content-info{
+background-color: #000;
+color: #fff;
+height: 20vh;
+margin: 0;
+}
+.icon-info{
+    height: 10vh;
+    width: 10vw;
+}
+.space-row{
+    padding: 4vh;
+}
